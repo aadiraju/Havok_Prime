@@ -1,2 +1,2 @@
 # Havok_Prime
-a Smash bros style game for iOS.
+This is a zip file containing my progress on a Smash bros style game for iOS.
